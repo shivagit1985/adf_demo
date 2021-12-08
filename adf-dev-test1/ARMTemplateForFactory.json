@@ -24,7 +24,7 @@
 						"dependsOn": [],
 						"userProperties": [],
 						"typeProperties": {
-							"waitTimeInSeconds": 1
+							"waitTimeInSeconds": 10
 						}
 					}
 				],
@@ -32,8 +32,7 @@
 					"elapsedTimeMetric": {},
 					"cancelAfter": {}
 				},
-				"annotations": [],
-				"lastPublishTime": "2021-12-08T13:06:02Z"
+				"annotations": []
 			},
 			"dependsOn": []
 		}
